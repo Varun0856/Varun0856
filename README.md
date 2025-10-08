@@ -21,7 +21,7 @@ I'm a passionate **Backend Developer in the making** and a dedicated **DSA enthu
 - 🔍 Solve 300+ **DSA problems** with a strong focus on **problem-solving and optimization**
 - 🧠 Deepen understanding of **system design and architecture**
 - 🌐 Build and deploy **high-quality full-stack projects**
-- 🏆 Prepare for **top tech interviews (MAANG and beyond)**
+  
 
 ---
 
