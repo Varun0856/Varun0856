@@ -23,16 +23,6 @@ I'm a passionate **Backend Developer in the making** and a dedicated **DSA enthu
 - 🌐 Build and deploy **high-quality full-stack projects**
   
 
----
-
-### 📈 The Journey So Far
-
-- Learning **Go** for high-performance backend systems
-- Building strong problem-solving habits with **C++ DSA**
-- Exploring **cloud, Docker**, and advanced dev workflows
-- Creating a personal portfolio and real-world project repositories
-
----
 
 
 
